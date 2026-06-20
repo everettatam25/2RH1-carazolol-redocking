@@ -1,0 +1,32 @@
+2RH1 Carazolol Redocking Validation
+
+Receptor: 2RH1
+Ligand: CAU / carazolol
+Software: AutoDock Vina 1.2.7
+Exhaustiveness: 32
+
+Grid center:
+x = -30.262
+y = 9.439
+z = 6.943
+
+Grid size:
+x = 21.390 Angstrom
+y = 18.353 Angstrom
+z = 14.183 Angstrom
+
+Pose 1:
+Vina score = -9.98 kcal/mol
+RMSD = 1.013 Angstrom
+
+Pose 3:
+Vina score = -9.39 kcal/mol
+RMSD = 1.483 Angstrom
+
+Conclusion:
+The top-ranked redocked pose reproduced the crystallographic
+carazolol binding geometry with an RMSD of 1.013 Angstrom,
+supporting successful validation of the docking protocol.
+
+Receptor preparation note:
+Residue A:29 was omitted using allow_bad_res.
