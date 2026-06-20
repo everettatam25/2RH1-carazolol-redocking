@@ -1,4 +1,4 @@
-### Carazolol Redocking Validation in the β2-Adrenergic Receptor (PDB 2RH1)
+# Carazolol Redocking Validation in the β2-Adrenergic Receptor (PDB 2RH1)
 ## Overview
 
 * This project validates a molecular-docking workflow by redocking the crystallographic ligand carazolol (ligand code: CAU) into the β2-adrenergic receptor structure PDB 2RH1.
